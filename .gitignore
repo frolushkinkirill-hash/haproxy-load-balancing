@@ -1,0 +1,19 @@
+# Logs
+*.log
+*.pid
+
+# Temporary files
+/tmp/
+/var/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Backup files
+*.bak
+*.backup
